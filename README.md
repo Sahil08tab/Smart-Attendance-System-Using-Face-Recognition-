@@ -1,0 +1,2 @@
+# Smart-Attendance-System-Using-Face-Recognition-
+This project presents a modern attendance system that leverages face recognition technology to streamline and secure the process of tracking student or employee presence. By replacing traditional methods like manual registers or RFID cards, this system offers a efficient and tamper-proof solution ideal for classrooms, offices, and training centers.
