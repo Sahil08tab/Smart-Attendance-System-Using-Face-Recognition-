@@ -39,4 +39,4 @@ Now go to face recognition folder and open attendance.py.
 # How To Use It
 # Node Server
 Open terminal in VS Code then type "npm run server". This should start your node server if you have installed all the packages
-
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/e79e0e39f3265f655560e7154f607217a3bf0c72/Projectimg/Nodeserver.png)
