@@ -14,18 +14,18 @@ The main objective of implementing a Smart Attendance System using face recognit
 Overall, the primary objective of a Smart Attendance System is to optimize attendance management practices by leveraging cutting-edge technology to meet the evolving needs of modern institutions and organizations.
 
 # Prerequsites
- Node.js 14 or later - install from https://nodejs.org/
- Python 3.x or later - install from https://www.python.org/
+ 1.Node.js 14 or later - install from https://nodejs.org/
+ 2.Python 3.x or later - install from https://www.python.org/
 
 # Installing Python Packages
- Open the Terminal (Linux & MacOS) or PowerShell (Windows)
- Type "pip install numpy" after it gets installed.
- Type "pip install opencv-python" after it gets installed.
- Type "pip install requests" after it gets installed.
+ 1.Open the Terminal (Linux & MacOS) or PowerShell (Windows)
+ 2.Type "pip install numpy" after it gets installed.
+ 3.Type "pip install opencv-python" after it gets installed.
+ 4.Type "pip install requests" after it gets installed.
 # Installing Face_Recognition module
- Type "pip install cmake" after it gets installed.
- Type "pip install dlib" after it gets installed.
-Type "pip install face_recognition" after it gets installed.
+ 5.Type "pip install cmake" after it gets installed.
+ 6.Type "pip install dlib" after it gets installed.
+7.Type "pip install face_recognition" after it gets installed.
 Now if all the modules got installed correctly attendance.py should run correctly.
 
 # Installing Packkages
@@ -40,3 +40,20 @@ Now go to face recognition folder and open attendance.py.
 # Node Server
 Open terminal in VS Code then type "npm run server". This should start your node server if you have installed all the packages
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/e79e0e39f3265f655560e7154f607217a3bf0c72/Projectimg/Nodeserver.png)
+
+# Face Detection working
+Open Face Recognition folder then open attendance.py and run the file. To close the camera window just press "Enter Key" on keyboard
+
+# How to add new students
+To add a new student copy the picture of the student into the image folder with this convention "Roll_Name_branch.jpg"
+
+# How to access frontend
+Open Frontend folder then oprn index.html. Now a login page should popup.
+
+# Login Page
+Username: admin Password: admin Now enter Username & Password to proceed to the attendace details.
+
+# Student Attendance Details page
+Now to view student attendance details select a valid date and press filter.
+
+# Technologies Used
