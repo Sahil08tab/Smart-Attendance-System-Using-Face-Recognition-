@@ -27,3 +27,16 @@ Overall, the primary objective of a Smart Attendance System is to optimize atten
  Type "pip install dlib" after it gets installed.
 Type "pip install face_recognition" after it gets installed.
 Now if all the modules got installed correctly attendance.py should run correctly.
+
+# Installing Packkages
+Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
+Type ‘npm install’ in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
+Now make sure you are in backend folder. To open the application, type ‘npm run server’ and press Enter in the terminal.
+The application should be live on the local port 8080.
+Now go to face recognition folder and open attendance.py.
+**If all the packages got installed correctly the program should run without any problem.
+
+# How To Use It
+# Node Server
+Open terminal in VS Code then type "npm run server". This should start your node server if you have installed all the packages
+
