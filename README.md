@@ -43,17 +43,36 @@ Open terminal in VS Code then type "npm run server". This should start your node
 
 # Face Detection working
 Open Face Recognition folder then open attendance.py and run the file. To close the camera window just press "Enter Key" on keyboard
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/e11e69e1d86006bb1cc19754a21bcd1c866b7db6/Projectimg/validation.png)
 
 # How to add new students
 To add a new student copy the picture of the student into the image folder with this convention "Roll_Name_branch.jpg"
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/2eacb82fed223981b7186e1a98494cec93dcd028/Projectimg/Add%20student.png)
 
 # How to access frontend
 Open Frontend folder then oprn index.html. Now a login page should popup.
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/2eacb82fed223981b7186e1a98494cec93dcd028/Projectimg/frontend.png)
 
 # Login Page
 Username: admin Password: admin Now enter Username & Password to proceed to the attendace details.
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/2eacb82fed223981b7186e1a98494cec93dcd028/Projectimg/login%20page.png)
 
 # Student Attendance Details page
 Now to view student attendance details select a valid date and press filter.
+![image alt] (https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/564243ba904dea92c81dd25d9302d394c8df4a13/Projectimg/attend.png)
 
 # Technologies Used
+Frontend 
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/564243ba904dea92c81dd25d9302d394c8df4a13/Projectimg/Frontend%20stack.png)
+
+Backend
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/564243ba904dea92c81dd25d9302d394c8df4a13/Projectimg/backend%20stack.png)
+
+Database
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/564243ba904dea92c81dd25d9302d394c8df4a13/Projectimg/database.png)
+
+# Team Members
+1.  Sahil Srivastava: sahil.srivastava_cs21@gla.ac.in
+2.  Adarsh Singh: adarsh.singh_cs21@gla.ac.in
+3.  Shivansh kumar: shivansh.kumar_cs21@gla.ac.in
+4.  Kunal Sharma: kunal.sharma_cs21@gla.ac.in
