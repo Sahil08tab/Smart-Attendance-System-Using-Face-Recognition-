@@ -47,7 +47,7 @@ Open Face Recognition folder then open attendance.py and run the file. To close 
 
 # How to add new students
 To add a new student copy the picture of the student into the image folder with this convention "Roll_Name_branch.jpg"
-![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/2eacb82fed223981b7186e1a98494cec93dcd028/Projectimg/Add%20student.png)
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/aa659caf9537306ce48f2d413742f2fc172d9c98/Projectimg/attend.png)
 
 # How to access frontend
 Open Frontend folder then oprn index.html. Now a login page should popup.
