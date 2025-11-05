@@ -30,3 +30,49 @@ Now if all the modules got installed correctly attendance.py should run correctl
 
 # Installing packages:
 1.Download the repository:
+https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-.git
+2.Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
+3.Type ‘npm install’ in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
+4.Now make sure you are in backend folder. To open the application, type ‘npm run server’ and press Enter in the terminal.
+5.The application should be live on the local port 8080.
+Now go to face recognition folder and open attendance.py.
+# **If all the packages got installed correctly the program should run without any problem.
+
+# How to use it 📖
+# Node Server
+Open terminal in VS Code then type "npm run server". This should start your node server if you have installed all the packages
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/Nodeserver.png)
+
+# Face Detection working
+Open Face Recognition folder then open attendance.py and run the file. To close the camera window just press "Enter Key" on keyboard
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/df4b17f580d11420464d8a09f1a32302501e5543/Projectimg/validation.png)
+
+# How to add new students
+To add a new student copy the picture of the student into the image folder with this convention "Roll_Name_branch.jpg"
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/e3be7bf9c4fb6e7c1f8a1560bb5388d654ef3239/Projectimg/Add%20student.png)
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/df4b17f580d11420464d8a09f1a32302501e5543/Projectimg/student.png)
+
+# How to access frontend
+Open Frontend folder then open index.html. Now a login page should popup.
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/frontend.png) 
+
+# Login Page
+Username: admin Password: admin Now enter Username & Password to proceed to the attendace details.
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/login%20page.png)
+
+# Student Attendance Details page
+Now to view student attendance details select a valid date and press filter.
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/attend.png)
+
+# Technologies Used
+# Backend
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/backend%20stack.png)
+
+# Frontend
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/Frontend%20stack.png)
+
+# Database
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/database.png)
+
+# Training Models
+![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/Training%20Models.png)
