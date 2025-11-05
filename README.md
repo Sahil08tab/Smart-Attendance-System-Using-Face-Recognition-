@@ -36,10 +36,12 @@ https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-.gi
 4.Now make sure you are in backend folder. To open the application, type ‘npm run server’ and press Enter in the terminal.
 5.The application should be live on the local port 8080.
 Now go to face recognition folder and open attendance.py.
-## **If all the packages got installed correctly the program should run without any problem.
+
+### **If all the packages got installed correctly the program should run without any problem.
 
 # How to use it 📖
-## Node Server
+
+### Node Server
 Open terminal in VS Code then type "npm run server". This should start your node server if you have installed all the packages
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/Nodeserver.png)
 
@@ -65,6 +67,7 @@ Now to view student attendance details select a valid date and press filter.
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/attend.png)
 
 # Technologies Used
+
 ## Backend
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/backend%20stack.png)
 
