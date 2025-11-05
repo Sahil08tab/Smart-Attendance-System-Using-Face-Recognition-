@@ -27,3 +27,6 @@ Overall, the primary objective of a Smart Attendance System is to optimize atten
  Type "pip install dlib" after it gets installed.
 Type "pip install face_recognition" after it gets installed.
 Now if all the modules got installed correctly attendance.py should run correctly.
+
+# Installing packages:
+1.Download the repository:
