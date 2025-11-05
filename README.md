@@ -68,14 +68,20 @@ Now to view student attendance details select a valid date and press filter.
 
 # Technologies Used
 
-## Backend
+### Backend
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/backend%20stack.png)
 
-## Frontend
+### Frontend
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/Frontend%20stack.png)
 
-## Database
+### Database
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/database.png)
 
-## Training Models
+### Training Models
 ![image alt](https://github.com/Sahil08tab/Smart-Attendance-System-Using-Face-Recognition-/blob/bf992d46ad1b2437288a99a919d9d378fe7ff73b/Projectimg/Training%20Models.png)
+
+# Team Members
+1. Sahil Srivastava sahil.srivstava_cs21@gla.ac.in
+2. Kunal Sharma kunal.sharma_cs21@gla.ac.in
+3. Shivansh Kumar shivansh.kumar_cs21@gla.ac.in
+4. Adarsh Singh adarsh.singh_cs21@gla.ac.in
